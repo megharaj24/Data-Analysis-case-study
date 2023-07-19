@@ -1,6 +1,7 @@
 # Data-Analysis-case-study
 
 
+![image](https://github.com/megharaj24/Data-Analysis-case-study/assets/91184652/666d84cb-01fb-4282-9a55-eebd4dacc1ce)
 
 
 Conclusion:
